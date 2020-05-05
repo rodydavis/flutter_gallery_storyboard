@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D={
-b__:function(){return new D.vi(T.ae("da"))},
-vi:function vi(d){this.a=d}},Z,E,K,O,Q,X,F
+aZM:function(){return new D.vd(T.ae("da"))},
+vd:function vd(d){this.a=d}},Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([D])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-D.vi.prototype={
+D.vd.prototype={
 cA:function(d){return d+" GitHub-lager"},
 e4:function(d){return"G\xe5 til "+d+". for at se kildekoden for denne app."},
 gdZ:function(){return"LOG IND"},
@@ -693,8 +693,8 @@ gkE:function(){return"Designere fremstiller futuristisk stof ved hj\xe6lp af tek
 gkF:function(){return"Feminister g\xf8r op med partilinjen"},
 gkD:function(){return"Landbruget mangler bier"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(D.vi,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vi":{"Q":[]}}'))
+y(D.vd,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vd":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["Rk9X9mS4MS35LDmtX+NyuV1Xn4k="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["76h0SBoAxTIRCMksTM3e6WNBZ3E="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_19.part.js.map

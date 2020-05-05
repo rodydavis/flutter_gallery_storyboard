@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O={
-aZM:function(){return new O.v5(T.ae("am"))},
-v5:function v5(d){this.a=d}},Q,X,F
+aZy:function(){return new O.v0(T.ae("am"))},
+v0:function v0(d){this.a=d}},Q,X,F
 a.setFunctionNamesIfNecessary([O])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=a.updateHolder(c[21],O)
 Q=c[22]
 X=c[23]
 F=c[24]
-O.v5.prototype={
+O.v0.prototype={
 cA:function(d){return d+" \u12e8GitHub \u12cd\u1202\u1265 \u121b\u12a8\u121b\u127b"},
 e4:function(d){return"\u12e8\u12da\u1205 \u1218\u1270\u130d\u1260\u122a\u12eb \u12ae\u12f5 \u121d\u1295\u132d \u12ae\u12f5\u1295 \u1208\u121b\u12e8\u1275 \u12a5\u1263\u12ad\u12ce "+d+"\u1295 \u12ed\u130e\u1265\u1299\u1362"},
 gdZ:function(){return"\u130d\u1263"},
@@ -693,8 +693,8 @@ gkE:function(){return"\u12e8\u12c8\u12f0\u134a\u1275 \u1328\u122d\u1246\u127d\u1
 gkF:function(){return"\u12e8\u1234\u1275 \u1218\u1265\u1275 \u1270\u121f\u130b\u127e\u127d \u12c8\u1308\u1295\u1270\u129d\u1290\u1275 \u120b\u12ed \u12eb\u120b\u1278\u12cd \u12a0\u124b\u121d"},
 gkD:function(){return"\u12e8\u12a5\u122d\u123b \u1218\u122c\u1275 \u1295\u1266\u127d \u12a5\u1325\u1228\u1275 \u12a0\u1208"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(O.v5,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","v5":{"Q":[]}}'))
+y(O.v0,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","v0":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["o9En9VbyZvlfZaREwOYfA5U12Cw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["4t6ZgOoItjCCIT4WzqOM50OulKQ="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_10.part.js.map

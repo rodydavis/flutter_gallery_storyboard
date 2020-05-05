@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S={
-b_P:function(){return new S.w3(T.ae("is"))},
-w3:function w3(d){this.a=d}},T,D,Z,E,K,O,Q,X,F
+b_B:function(){return new S.vZ(T.ae("is"))},
+vZ:function vZ(d){this.a=d}},T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([S])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-S.w3.prototype={
+S.vZ.prototype={
 cA:function(d){return d+" GitHub geymsla"},
 e4:function(d){return"Far\xf0u \xe1 "+d+" til a\xf0 sj\xe1 upprunak\xf3\xf0a \xfeessa forrits."},
 gdZ:function(){return"SKR\xc1 INN"},
@@ -693,8 +693,8 @@ gkE:function(){return"H\xf6nnu\xf0ir n\xfdta s\xe9r t\xe6knina til framlei\xf0sl
 gkF:function(){return"Fem\xednistar \xe1 m\xf3ti flokkshollustu"},
 gkD:function(){return"B\xfdflugur vantar \xed b\xfdflugnar\xe6kt"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(S.w3,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","w3":{"Q":[]}}'))
+y(S.vZ,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vZ":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["+5et6ZFVEXi1b/5sF76eVyLQDew="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["1XifpjDAbXRfwtckuHv+qA04SL0="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_35.part.js.map

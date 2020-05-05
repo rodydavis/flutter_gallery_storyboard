@@ -76,23 +76,60 @@ class GalleryApp extends StatelessWidget {
               const DataTableDemo(),
               const SnackbarsDemo(),
               const TextFieldDemo(),
-              const TooltipDemo(),
+              MultiTypesChild<BottomSheetDemoType>(
+                values: BottomSheetDemoType.values,
+                builder: (context, type) => BottomSheetDemo(type: type),
+              ),
+              MultiTypesChild<BottomNavigationDemoType>(
+                values: BottomNavigationDemoType.values,
+                builder: (context, type) => BottomNavigationDemo(type: type),
+              ),
+              MultiTypesChild<ButtonDemoType>(
+                values: ButtonDemoType.values,
+                builder: (context, type) => ButtonDemo(type: type),
+              ),
+              MultiTypesChild<ChipDemoType>(
+                values: ChipDemoType.values,
+                builder: (context, type) => ChipDemo(type: type),
+              ),
+              MultiTypesChild<DialogDemoType>(
+                values: DialogDemoType.values,
+                builder: (context, type) => DialogDemo(type: type),
+              ),
+              MultiTypesChild<GridListDemoType>(
+                values: GridListDemoType.values,
+                builder: (context, type) => GridListDemo(type: type),
+              ),
+              MultiTypesChild<ListDemoType>(
+                values: ListDemoType.values,
+                builder: (context, type) => ListDemo(type: type),
+              ),
+              MultiTypesChild<MenuDemoType>(
+                values: MenuDemoType.values,
+                builder: (context, type) => MenuDemo(type: type),
+              ),
+              MultiTypesChild<PickerDemoType>(
+                values: PickerDemoType.values,
+                builder: (context, type) => PickerDemo(type: type),
+              ),
+              MultiTypesChild<ProgressIndicatorDemoType>(
+                values: ProgressIndicatorDemoType.values,
+                builder: (context, type) => ProgressIndicatorDemo(type: type),
+              ),
+              MultiTypesChild<SelectionControlsDemoType>(
+                values: SelectionControlsDemoType.values,
+                builder: (context, type) => SelectionControlsDemo(type: type),
+              ),
+              MultiTypesChild<SlidersDemoType>(
+                values: SlidersDemoType.values,
+                builder: (context, type) => SlidersDemo(type: type),
+              ),
+              MultiTypesChild<TabsDemoType>(
+                values: TabsDemoType.values,
+                builder: (context, type) => TabsDemo(type: type),
+              ),
             ],
-            customRoutes: [
-              const RouteSettings(name: '/bottom_sheet'),
-              const RouteSettings(name: '/bottom_navigation'),
-              const RouteSettings(name: '/button_demo'),
-              const RouteSettings(name: '/chip_demo'),
-              const RouteSettings(name: '/alert_demo'),
-              const RouteSettings(name: '/grid_list_demo'),
-              const RouteSettings(name: '/list_demo'),
-              const RouteSettings(name: '/menu_demo'),
-              const RouteSettings(name: '/picker_demo'),
-              const RouteSettings(name: '/progress_indicator'),
-              const RouteSettings(name: '/selection_control'),
-              const RouteSettings(name: '/sliders_demo'),
-              const RouteSettings(name: '/tabs_demo'),
-            ],
+
             child: MaterialApp(
               title: 'Flutter Gallery',
               debugShowCheckedModeBanner: false,
@@ -115,66 +152,6 @@ class GalleryApp extends StatelessWidget {
                 return locale;
               },
               onGenerateRoute: RouteConfiguration.onGenerateRoute,
-              routes: {
-                '/bottom_sheet': (_) => MultiTypesChild<BottomSheetDemoType>(
-                      values: BottomSheetDemoType.values,
-                      builder: (context, type) => BottomSheetDemo(type: type),
-                    ),
-                '/bottom_navigation': (_) =>
-                    MultiTypesChild<BottomNavigationDemoType>(
-                      values: BottomNavigationDemoType.values,
-                      builder: (context, type) =>
-                          BottomNavigationDemo(type: type),
-                    ),
-                '/button_demo': (_) => MultiTypesChild<ButtonDemoType>(
-                      values: ButtonDemoType.values,
-                      builder: (context, type) => ButtonDemo(type: type),
-                    ),
-                '/chip_demo': (_) => MultiTypesChild<ChipDemoType>(
-                      values: ChipDemoType.values,
-                      builder: (context, type) => ChipDemo(type: type),
-                    ),
-                '/alert_demo': (_) => MultiTypesChild<DialogDemoType>(
-                      values: DialogDemoType.values,
-                      builder: (context, type) => DialogDemo(type: type),
-                    ),
-                '/grid_list_demo': (_) => MultiTypesChild<GridListDemoType>(
-                      values: GridListDemoType.values,
-                      builder: (context, type) => GridListDemo(type: type),
-                    ),
-                '/list_demo': (_) => MultiTypesChild<ListDemoType>(
-                      values: ListDemoType.values,
-                      builder: (context, type) => ListDemo(type: type),
-                    ),
-                '/menu_demo': (_) => MultiTypesChild<MenuDemoType>(
-                      values: MenuDemoType.values,
-                      builder: (context, type) => MenuDemo(type: type),
-                    ),
-                '/picker_demo': (_) => MultiTypesChild<PickerDemoType>(
-                      values: PickerDemoType.values,
-                      builder: (context, type) => PickerDemo(type: type),
-                    ),
-                '/progress_indicator': (_) =>
-                    MultiTypesChild<ProgressIndicatorDemoType>(
-                      values: ProgressIndicatorDemoType.values,
-                      builder: (context, type) =>
-                          ProgressIndicatorDemo(type: type),
-                    ),
-                '/selection_control': (_) =>
-                    MultiTypesChild<SelectionControlsDemoType>(
-                      values: SelectionControlsDemoType.values,
-                      builder: (context, type) =>
-                          SelectionControlsDemo(type: type),
-                    ),
-                '/sliders_demo': (_) => MultiTypesChild<SlidersDemoType>(
-                      values: SlidersDemoType.values,
-                      builder: (context, type) => SlidersDemo(type: type),
-                    ),
-                '/tabs_demo': (_) => MultiTypesChild<TabsDemoType>(
-                      values: TabsDemoType.values,
-                      builder: (context, type) => TabsDemo(type: type),
-                    ),
-              },
             ),
           );
         },

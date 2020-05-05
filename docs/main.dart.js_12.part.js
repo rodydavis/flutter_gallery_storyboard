@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D={
-aZT:function(){return new D.vb(T.ae("az"))},
-vb:function vb(d){this.a=d}},Z,E,K,O,Q,X,F
+aZF:function(){return new D.v6(T.ae("az"))},
+v6:function v6(d){this.a=d}},Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([D])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-D.vb.prototype={
+D.v6.prototype={
 cA:function(d){return d+" GitHub yadda\u015f\u0131"},
 e4:function(d){return"Bu t\u0259tbiqin m\u0259nb\u0259 koduna baxmaq \xfc\xe7\xfcn "+d+" \xfcnvan\u0131na daxil olun."},
 gdZ:function(){return"G\u0130R\u0130\u015e"},
@@ -693,8 +693,8 @@ gkE:function(){return"Dizaynerl\u0259r m\xfcasir par\xe7alar haz\u0131rlamaq \xf
 gkF:function(){return"Feministl\u0259r partiya t\u0259r\u0259fin\u0259 ke\xe7m\u0259si"},
 gkD:function(){return"\xc7i\xe7\u0259kl\u0259m\u0259 d\xf6vr\xfcn\xfcn ar\u0131lara t\u0259siri"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(D.vb,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vb":{"Q":[]}}'))
+y(D.v6,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","v6":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["vezU9KgUc4STZluq8hVfO+kyr6E="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["P38bBYe1JTDdzzQjZuDZM7l6MIY="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_12.part.js.map

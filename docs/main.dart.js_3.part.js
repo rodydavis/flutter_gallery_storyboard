@@ -1,11 +1,11 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E={
-b_0:function(d){return new E.qz(T.ae(d))},
-b_1:function(){return new E.vj(T.ae("de_AT"))},
-b_2:function(){return new E.vk(T.ae("de_CH"))},
-qz:function qz(d){this.a=d},
-vj:function vj(d){this.a=d},
-vk:function vk(d){this.a=d}},K,O,Q,X,F
+aZN:function(d){return new E.qq(T.ae(d))},
+aZO:function(){return new E.ve(T.ae("de_AT"))},
+aZP:function(){return new E.vf(T.ae("de_CH"))},
+qq:function qq(d){this.a=d},
+ve:function ve(d){this.a=d},
+vf:function vf(d){this.a=d}},K,O,Q,X,F
 a.setFunctionNamesIfNecessary([E])
 C=c[0]
 H=c[1]
@@ -32,7 +32,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-E.qz.prototype={
+E.qq.prototype={
 cA:function(d){return d+" GitHub-Repository"},
 e4:function(d){return"Den Quellcode dieser App findest du hier: "+d+"."},
 gdZ:function(){return"ANMELDEN"},
@@ -696,7 +696,7 @@ gkI:function(){return"Wenn Aktienkurse stagnieren, richtet sich der Blick auf di
 gkE:function(){return"Designer nutzen Technologie zur Entwicklung futuristischer Stoffe"},
 gkF:function(){return"Feministinnen bek\xe4mpfen Vetternwirtschaft"},
 gkD:function(){return"Bienen auf dem Land in Gefahr"}}
-E.vj.prototype={
+E.ve.prototype={
 cA:function(d){return d+" GitHub-Repository"},
 e4:function(d){return"Den Quellcode dieser App findest du hier: "+d+"."},
 gdZ:function(){return"ANMELDEN"},
@@ -1360,7 +1360,7 @@ gkI:function(){return"Wenn Aktienkurse stagnieren, richtet sich der Blick auf di
 gkE:function(){return"Designer nutzen Technologie zur Entwicklung futuristischer Stoffe"},
 gkF:function(){return"Feministinnen bek\xe4mpfen Vetternwirtschaft"},
 gkD:function(){return"Bienen auf dem Land in Gefahr"}}
-E.vk.prototype={
+E.vf.prototype={
 cA:function(d){return d+" GitHub-Repository"},
 e4:function(d){return"Den Quellcode dieser App findest du hier: "+d+"."},
 gdZ:function(){return"ANMELDEN"},
@@ -2025,9 +2025,9 @@ gkE:function(){return"Designer nutzen Technologie zur Entwicklung futuristischer
 gkF:function(){return"Feministinnen bek\xe4mpfen Vetternwirtschaft"},
 gkD:function(){return"Bienen auf dem Land in Gefahr"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit,x=a.inheritMany
-y(E.qz,X.Q)
-x(E.qz,[E.vj,E.vk])})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","qz":{"Q":[]},"vj":{"Q":[]},"vk":{"Q":[]}}'))
+y(E.qq,X.P)
+x(E.qq,[E.ve,E.vf])})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","qq":{"P":[]},"ve":{"P":[]},"vf":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["ZwymAoXdeKhRAcfLFhjgNEEeJhA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["D5iTmYugQO1d+QyfCWHVoGnTTTM="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_3.part.js.map

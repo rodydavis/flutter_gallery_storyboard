@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A={
-b0t:function(){return new A.wG(T.ae("tr"))},
-wG:function wG(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
+b0f:function(){return new A.wB(T.ae("tr"))},
+wB:function wB(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([A])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-A.wG.prototype={
+A.wB.prototype={
 cA:function(d){return d+" GitHub havuzu"},
 e4:function(d){return"Bu uygulaman\u0131n kaynak kodunu g\xf6rmek i\xe7in l\xfctfen "+d+" sayfas\u0131n\u0131 ziyaret edin."},
 gdZ:function(){return"OTURUM A\xc7"},
@@ -693,8 +693,8 @@ gkE:function(){return"Tasar\u0131mc\u0131lar Modern Fabrikalar \u0130n\u015fa Et
 gkF:function(){return"Partizanl\u0131kta Feministler \xd6ne \xc7\u0131k\u0131yor"},
 gkD:function(){return"\xc7iftlik Ar\u0131lar\u0131nda Azalma"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.wG,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wG":{"Q":[]}}'))
+y(A.wB,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wB":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["e3FGDN/nAzq0xV326GqV7heCC1I="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["/DV325R7GU95rYnz4zZb7C5YJQs="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_71.part.js.map

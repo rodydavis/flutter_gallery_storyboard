@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A={
-b_O:function(){return new A.w2(T.ae("id"))},
-w2:function w2(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
+b_A:function(){return new A.vY(T.ae("id"))},
+vY:function vY(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([A])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-A.w2.prototype={
+A.vY.prototype={
 cA:function(d){return"Repositori GitHub "+d},
 e4:function(d){return"Untuk melihat kode sumber aplikasi ini, buka "+d+"."},
 gdZ:function(){return"LOGIN"},
@@ -693,8 +693,8 @@ gkE:function(){return"Desainer Menggunakan Teknologi untuk Membuat Kain Futurist
 gkF:function(){return"Keberpihakan Kaum Feminis"},
 gkD:function(){return"Rendahnya Pasokan Lebah Pertanian"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.w2,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","w2":{"Q":[]}}'))
+y(A.vY,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vY":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["Y1y4n0D3HaBdGLEmv7tpOFCUXTM="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["1gdSKRbIk1cOyUQrP0KtZQz+bZA="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_34.part.js.map

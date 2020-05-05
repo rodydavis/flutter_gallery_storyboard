@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G={
-b_L:function(){return new G.w_(T.ae("hr"))},
-w_:function w_(d){this.a=d}},V,S,T,D,Z,E,K,O,Q,X,F
+b_x:function(){return new G.vV(T.ae("hr"))},
+vV:function vV(d){this.a=d}},V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([G])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-G.w_.prototype={
+G.vV.prototype={
 cA:function(d){return"GitHub spremi\u0161te "+d},
 e4:function(d){return"Da biste vidjeli izvorni k\xf4d za ovu aplikaciju, posjetite "+d+"."},
 gdZ:function(){return"PRIJAVA"},
@@ -691,8 +691,8 @@ gkE:function(){return"Dizajneri koriste tehnologiju za izradu futuristi\u010dkih
 gkF:function(){return"Feministi\u010dki pogled na strana\u010dje"},
 gkD:function(){return"Doma\u0107im p\u010delama nedostaje izvora"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(G.w_,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","w_":{"Q":[]}}'))
+y(G.vV,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vV":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["kqtRZq7UASe5EQ4c43v/Z2pzUQc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["8M/K617CoZwf6HeNB9iL8OyTWN8="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_31.part.js.map

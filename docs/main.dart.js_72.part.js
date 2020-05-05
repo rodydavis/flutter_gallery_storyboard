@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L={
-b0u:function(){return new L.wH(T.ae("uk"))},
-wH:function wH(d){this.a=d}},M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
+b0g:function(){return new L.wC(T.ae("uk"))},
+wC:function wC(d){this.a=d}},M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([L])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-L.wH.prototype={
+L.wC.prototype={
 cA:function(d){return'\u0421\u0445\u043e\u0432\u0438\u0449\u0435 GitHub "'+d+'"'},
 e4:function(d){return"\u0429\u043e\u0431 \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u0432\u0438\u0445\u0456\u0434\u043d\u0438\u0439 \u043a\u043e\u0434 \u0446\u044c\u043e\u0433\u043e \u0434\u043e\u0434\u0430\u0442\u043a\u0430, \u0432\u0456\u0434\u0432\u0456\u0434\u0430\u0439\u0442\u0435 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0443 {value}."},
 gdZ:function(){return"\u0423\u0412\u0406\u0419\u0422\u0418"},
@@ -691,8 +691,8 @@ gkE:function(){return"\u0417\u0430\u0432\u0434\u044f\u043a\u0438 \u0442\u0435\u0
 gkF:function(){return"\u041f\u0430\u0440\u0442\u0456\u0439\u043d\u0456\u0441\u0442\u044c \u0444\u0435\u043c\u0456\u043d\u0456\u0441\u0442\u043e\u043a"},
 gkD:function(){return"\u041d\u0435\u0441\u0442\u0430\u0447\u0430 \u0431\u0434\u0436\u0456\u043b \u0443 \u0441\u0456\u043b\u044c\u0441\u044c\u043a\u043e\u043c\u0443 \u0433\u043e\u0441\u043f\u043e\u0434\u0430\u0440\u0441\u0442\u0432\u0456"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(L.wH,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wH":{"Q":[]}}'))
+y(L.wC,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wC":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["Z3BOgcenbFmO/oNglxhuaRg0Xz4="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["05H/xoW8jkq+dTyacg/WwKlrDnk="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_72.part.js.map

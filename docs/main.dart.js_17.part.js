@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B={
-aZY:function(){return new B.vg(T.ae("ca"))},
-vg:function vg(d){this.a=d}},A,G,V,S,T,D,Z,E,K,O,Q,X,F
+aZK:function(){return new B.vb(T.ae("ca"))},
+vb:function vb(d){this.a=d}},A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([B])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-B.vg.prototype={
+B.vb.prototype={
 cA:function(d){return"repositori de GitHub "+d},
 e4:function(d){return"Per consultar el codi font d'aquesta aplicaci\xf3, visita el "+d+"."},
 gdZ:function(){return"INICIA LA SESSI\xd3"},
@@ -693,8 +693,8 @@ gkE:function(){return"Uns dissenyadors creen teixits futuristes utilitzant tecno
 gkF:function(){return"El feminisme pren partit"},
 gkD:function(){return"Escassetat d\u2019abelles de camp"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(B.vg,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vg":{"Q":[]}}'))
+y(B.vb,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vb":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["97WHIJITCXhar2QTchH5XSRYoc0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["7pZJ7ODLn2ar5xQOvN4z0Cco5Jc="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_17.part.js.map

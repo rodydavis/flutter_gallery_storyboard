@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B={
-b0n:function(){return new B.wA(T.ae("sv"))},
-wA:function wA(d){this.a=d}},A,G,V,S,T,D,Z,E,K,O,Q,X,F
+b09:function(){return new B.wv(T.ae("sv"))},
+wv:function wv(d){this.a=d}},A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([B])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-B.wA.prototype={
+B.wv.prototype={
 cA:function(d){return"GitHub-lagringsplats "+d},
 e4:function(d){return"Bes\xf6k "+d+" om du vill se k\xe4llkoden f\xf6r den h\xe4r appen."},
 gdZ:function(){return"LOGGA IN"},
@@ -693,8 +693,8 @@ gkE:function(){return"Formgivare skapar futuristiska tyger med hj\xe4lp av tekni
 gkF:function(){return"Feminister tar upp kampen mot partipolitiken"},
 gkD:function(){return"Bina f\xf6rsvinner fr\xe5n jordbruksmarker"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(B.wA,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wA":{"Q":[]}}'))
+y(B.wv,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wv":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["Pz+TnU580dJo3fsxwuoKyX+LNkA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["t5m1Zt5CxTKVOaeXzZXAsKMn6rQ="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_65.part.js.map

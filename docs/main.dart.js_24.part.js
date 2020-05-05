@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M={
-b_B:function(){return new M.vR(T.ae("fi"))},
-vR:function vR(d){this.a=d}},N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
+b_n:function(){return new M.vM(T.ae("fi"))},
+vM:function vM(d){this.a=d}},N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([M])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-M.vR.prototype={
+M.vM.prototype={
 cA:function(d){return"GitHub-datas\xe4il\xf6: "+d},
 e4:function(d){return"Jos haluat n\xe4hd\xe4 t\xe4m\xe4n sovelluksen l\xe4hdekoodin, avaa "+d+"."},
 gdZ:function(){return"KIRJAUDU SIS\xc4\xc4N"},
@@ -693,8 +693,8 @@ gkE:function(){return"Tulevaisuuden kankaita kehitet\xe4\xe4n teknologian avulla
 gkF:function(){return"Feministit kyseenalaistavat puolueellisuuden"},
 gkD:function(){return"Maaseudun mehil\xe4iskato"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(M.vR,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vR":{"Q":[]}}'))
+y(M.vM,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vM":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["/wwM/RZGtazakDwxKOvjeI8pWkc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["/kBGYQ6EzF62x0I3CfoB2h67km4="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_24.part.js.map

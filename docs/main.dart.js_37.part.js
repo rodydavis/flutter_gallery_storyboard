@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X={
-b_R:function(){return new X.w5(T.ae("ja"))},
-w5:function w5(d){this.a=d}},F
+b_D:function(){return new X.w0(T.ae("ja"))},
+w0:function w0(d){this.a=d}},F
 a.setFunctionNamesIfNecessary([X])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=a.updateHolder(c[23],X)
 F=c[24]
-X.w5.prototype={
+X.w0.prototype={
 cA:function(d){return d+" GitHub \u30ea\u30dd\u30b8\u30c8\u30ea"},
 e4:function(d){return"\u3053\u306e\u30a2\u30d7\u30ea\u306e\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u306f "+d+" \u3067\u78ba\u8a8d\u3067\u304d\u307e\u3059\u3002"},
 gdZ:function(){return"\u30ed\u30b0\u30a4\u30f3"},
@@ -693,8 +693,8 @@ gkE:function(){return"\u30c7\u30b6\u30a4\u30ca\u30fc\u304c\u30c6\u30af\u30ce\u30
 gkF:function(){return"\u30d5\u30a7\u30df\u30cb\u30b9\u30c8\u304c\u515a\u6d3e\u306b\u5206\u65ad"},
 gkD:function(){return"\u8fb2\u5834\u306e\u30cf\u30c1\u304c\u4e0d\u8db3"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(X.w5,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","w5":{"Q":[]}}'))
+y(X.w0,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","w0":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["OeVj1GQ/6TY7yiYfJb+e3NcuWRc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Hg3uNSH1uVAdayATR8IRvy3BC1I="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_37.part.js.map

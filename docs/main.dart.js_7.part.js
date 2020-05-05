@@ -1,11 +1,11 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z={
-b0c:function(d){return new Z.qD(T.ae(d))},
-b0d:function(){return new Z.wr(T.ae("pt_BR"))},
-b0e:function(){return new Z.ws(T.ae("pt_PT"))},
-qD:function qD(d){this.a=d},
-wr:function wr(d){this.a=d},
-ws:function ws(d){this.a=d}},E,K,O,Q,X,F
+b_Z:function(d){return new Z.qu(T.ae(d))},
+b0_:function(){return new Z.wm(T.ae("pt_BR"))},
+b00:function(){return new Z.wn(T.ae("pt_PT"))},
+qu:function qu(d){this.a=d},
+wm:function wm(d){this.a=d},
+wn:function wn(d){this.a=d}},E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([Z])
 C=c[0]
 H=c[1]
@@ -32,7 +32,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-Z.qD.prototype={
+Z.qu.prototype={
 cA:function(d){return"Reposit\xf3rio "+d+" do GitHub"},
 e4:function(d){return"Para ver o c\xf3digo-fonte desse app, acesse "+d+"."},
 gdZ:function(){return"FAZER LOGIN"},
@@ -696,7 +696,7 @@ gkI:function(){return"Com a estagna\xe7\xe3o das a\xe7\xf5es, muitos se voltam \
 gkE:function(){return"Designers usam a tecnologia para criar tecidos futuristas"},
 gkF:function(){return"Feministas lidam com o partidarismo"},
 gkD:function(){return"Escassez do fornecimento das abelhas de cultivo"}}
-Z.wr.prototype={
+Z.wm.prototype={
 cA:function(d){return"Reposit\xf3rio "+d+" do GitHub"},
 e4:function(d){return"Para ver o c\xf3digo-fonte desse app, acesse "+d+"."},
 gdZ:function(){return"FAZER LOGIN"},
@@ -1360,7 +1360,7 @@ gkI:function(){return"Com a estagna\xe7\xe3o das a\xe7\xf5es, muitos se voltam \
 gkE:function(){return"Designers usam a tecnologia para criar tecidos futuristas"},
 gkF:function(){return"Feministas lidam com o partidarismo"},
 gkD:function(){return"Escassez do fornecimento das abelhas de cultivo"}}
-Z.ws.prototype={
+Z.wn.prototype={
 cA:function(d){return"Reposit\xf3rio do GitHub "+d},
 e4:function(d){return"Para ver o c\xf3digo-fonte desta app, visite o "+d+"."},
 gdZ:function(){return"INICIAR SESS\xc3O"},
@@ -2025,9 +2025,9 @@ gkE:function(){return"Designers utilizam a tecnologia para criar tecidos futuris
 gkF:function(){return"Feministas assumem o partidarismo"},
 gkD:function(){return"Abelhas em n\xfamero reduzido nas terras de cultivo"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit,x=a.inheritMany
-y(Z.qD,X.Q)
-x(Z.qD,[Z.wr,Z.ws])})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","qD":{"Q":[]},"wr":{"Q":[]},"ws":{"Q":[]}}'))
+y(Z.qu,X.P)
+x(Z.qu,[Z.wm,Z.wn])})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","qu":{"P":[]},"wm":{"P":[]},"wn":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["BNofTI7ZbBhWpV0CcUymTXaPPTk="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["/0I1AGYAvmJfHsHOOaWzAhQo4ko="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_7.part.js.map

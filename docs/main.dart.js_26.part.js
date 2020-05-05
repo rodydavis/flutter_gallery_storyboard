@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F={
-b_G:function(){return new F.vV(T.ae("gl"))},
-vV:function vV(d){this.a=d}}
+b_s:function(){return new F.vQ(T.ae("gl"))},
+vQ:function vQ(d){this.a=d}}
 a.setFunctionNamesIfNecessary([F])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=a.updateHolder(c[24],F)
-F.vV.prototype={
+F.vQ.prototype={
 cA:function(d){return"almac\xe9n de GitHub de "+d},
 e4:function(d){return"Para ver o c\xf3digo fonte desta aplicaci\xf3n, accede ao "+d+"."},
 gdZ:function(){return"INICIAR SESI\xd3N"},
@@ -693,8 +693,8 @@ gkE:function(){return"Os dese\xf1adores utilizan a tecnolox\xeda para crear teci
 gkF:function(){return"O feminismo \xfanese \xe1 causa"},
 gkD:function(){return"As abellas das terras de cultivo est\xe1n en perigo de extinci\xf3n"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(F.vV,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vV":{"Q":[]}}'))
+y(F.vQ,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vQ":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["mgqdX2TwMGqXxQBBcOL6vllDr00="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["W5FHIUkd9JtDpnT5SKr/Vu7882k="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_26.part.js.map

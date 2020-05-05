@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K={
-b08:function(){return new K.wn(T.ae("nl"))},
-wn:function wn(d){this.a=d}},O,Q,X,F
+b_V:function(){return new K.wi(T.ae("nl"))},
+wi:function wi(d){this.a=d}},O,Q,X,F
 a.setFunctionNamesIfNecessary([K])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-K.wn.prototype={
+K.wi.prototype={
 cA:function(d){return"GitHub-opslagplaats "+d},
 e4:function(d){return"Als je de broncode voor deze app wilt bekijken, ga je naar de "+d+"."},
 gdZ:function(){return"INLOGGEN"},
@@ -693,8 +693,8 @@ gkE:function(){return"Ontwerpers gebruiken technologie voor futuristische stoffe
 gkF:function(){return"Feministen pakken de partijgeest aan"},
 gkD:function(){return"Bijentekort in landbouwgebied"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(K.wn,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wn":{"Q":[]}}'))
+y(K.wi,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","wi":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["nYTBKAx/Nvnhi5CGnJOYpeNtuNw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["e72Dp/l/J2ld3HGxfX04R8q0jTM="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_55.part.js.map

@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E={
-b_z:function(){return new E.vP(T.ae("eu"))},
-vP:function vP(d){this.a=d}},K,O,Q,X,F
+b_l:function(){return new E.vK(T.ae("eu"))},
+vK:function vK(d){this.a=d}},K,O,Q,X,F
 a.setFunctionNamesIfNecessary([E])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-E.vP.prototype={
+E.vK.prototype={
 cA:function(d){return d+" GitHub biltegia"},
 e4:function(d){return"Aplikazio honen iturburu-kodea ikusteko, joan hona: "+d+"."},
 gdZ:function(){return"HASI SAIOA"},
@@ -693,8 +693,8 @@ gkE:function(){return"Diseinatzaileek teknologia erabiltzen dute ehun futuristak
 gkF:function(){return"Feministak alderdi baten alde jarri dira"},
 gkD:function(){return"Soroetako erleak desagertzen ari dira"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(E.vP,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vP":{"Q":[]}}'))
+y(E.vK,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vK":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["3shlIIxTSR94IwLpT2KX3hXQ2R4="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["eDx4bgSH3P1NMG/OrTlciC3iom0="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_22.part.js.map

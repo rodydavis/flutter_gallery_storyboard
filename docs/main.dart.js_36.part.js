@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A={
-b_Q:function(){return new A.w4(T.ae("it"))},
-w4:function w4(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
+b_C:function(){return new A.w_(T.ae("it"))},
+w_:function w_(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([A])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-A.w4.prototype={
+A.w_.prototype={
 cA:function(d){return"repository GitHub "+d},
 e4:function(d){return"Per visualizzare il codice sorgente di questa app, visita il "+d+"."},
 gdZ:function(){return"ACCEDI"},
@@ -693,8 +693,8 @@ gkE:function(){return"I designer usano la tecnologia per realizzare tessuti futu
 gkF:function(){return"Punto di vista delle femministe sulla partigianeria"},
 gkD:function(){return"Le api scarseggiano"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.w4,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","w4":{"Q":[]}}'))
+y(A.w_,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","w_":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["kBIfgk8cM/BKlm4ztulsVNXL5K0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["N8wljPlsBtOXRDvYmHWW3h/+FiU="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_36.part.js.map

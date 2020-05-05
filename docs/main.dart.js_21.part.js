@@ -1,7 +1,7 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A={
-b_y:function(){return new A.vO(T.ae("et"))},
-vO:function vO(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
+b_k:function(){return new A.vJ(T.ae("et"))},
+vJ:function vJ(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([A])
 C=c[0]
 H=c[1]
@@ -28,7 +28,7 @@ O=c[21]
 Q=c[22]
 X=c[23]
 F=c[24]
-A.vO.prototype={
+A.vJ.prototype={
 cA:function(d){return d+" GitHubi andmehoidla"},
 e4:function(d){return"Selle rakenduse l\xe4htekoodi n\xe4gemiseks vaadake siia: "+d+"."},
 gdZ:function(){return"LOGI SISSE"},
@@ -693,8 +693,8 @@ gkE:function(){return"Disainerid loovad tehnoloogia abil futuristlikke kangaid"}
 gkF:function(){return"Feministid astuvad partisanluse vastu"},
 gkD:function(){return"Mesilasi on p\xf5llumaadel v\xe4he"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.vO,X.Q)})()
-H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"N","bt":"N","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vO":{"Q":[]}}'))
+y(A.vJ,X.P)})()
+H.bc(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"b_","bf":"m","bv":"m","bw":"m","bd":"D","bp":"D","bA":"aX","bh":"M","bt":"M","bx":"G","bn":"G","bq":"aV","bz":"aR","bj":"aY","bm":"aU","bi":"Z","by":"Z","bu":"b3","bs":"b1","br":"b0","bk":"ax","bl":"aS","vJ":{"P":[]}}'))
 0}
-$__dart_deferred_initializers__["SrPYAetWxwADxgthrhTL1xqUA04="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["FaR2UtpEH8ovI1ee5P9DqAtYlco="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_21.part.js.map
